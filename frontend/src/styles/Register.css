@@ -1,0 +1,28 @@
+/* Register.css */
+
+.register-container {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #1a1a1a;
+  color: #fff;
+}
+
+.register-content {
+  text-align: center;
+}
+
+.register-content h1 {
+  margin-bottom: 20px;
+}
+
+.register-link {
+  margin-top: 20px;
+  font-size: 14px;
+  cursor: pointer;
+}
+
+.register-link:hover {
+  text-decoration: underline;
+}
